@@ -1,0 +1,57 @@
+<div class="container">
+  <h1 class="m-5">
+      Ingrese Cantidad a Retirar
+  </h1>
+
+  <div class="row justify-content-center">
+      <div class="col-sm-6">
+        <form action="" class="calculator ">
+
+            <input  type="text" class=" mb-4 text-center form-control form-control-lg" value={{binding}} readonly>
+            <input #button1 type="button" (click)="this.addCode(button1.value)" value="1" class="calculator-grup btn btn-dark" id="">
+            <input #button2 type="button" (click)="this.addCode(button2.value)" value="2" class="calculator-grup btn btn-dark " id=" ">
+            <input #button3 type="button" (click)="this.addCode(button3.value)" value="3" class="calculator-grup btn btn-dark" id="">
+            <input #button4 type="button" (click)="this.addCode(button4.value)" value="4" class="calculator-grup btn btn-dark " id=" ">
+            <input #button5 type="button" (click)="this.addCode(button5.value)" value="5" class="calculator-grup btn btn-dark" id="">
+            <input #button6 type="button" (click)="this.addCode(button6.value)" value="6" class="calculator-grup btn btn-dark " id=" ">
+            <input #button7 type="button" (click)="this.addCode(button7.value)" value="7" class="calculator-grup btn btn-dark" id="">
+            <input #button8 type="button" (click)="this.addCode(button8.value)" value="8" class="calculator-grup btn btn-dark " id=" ">
+            <input #button9 type="button" (click)="this.addCode(button9.value)" value="9" class="calculator-grup btn btn-dark" id="">
+            <span class="calculator-grup"> </span>
+            <input #button0 type="button" (click)="this.addCode(button0.value)" value="0" class="calculator-grup btn  btn-dark" id=" ">
+            <span class="calculator-grup btn "> </span>
+        </form>
+      </div>
+  </div>
+  <div class=" mt-3 row justify-content-center">
+      <div class="col-sm-6">
+          <input type="button" (click)="this.clearBinding()" value="LIMPIAR" class="calculator-grup btn btn-warning">
+          <input type="button" (click)="this.withDrawAmount()" value="ACEPTAR" class=" calculator-grup btn btn-success " id='acceptBtn' [disabled]="this.disableAcceptBtn">
+          <input type="button" (click)="this.ToBack()" value="SALIR" class=" calculator-grup btn btn-danger " id='acceptBtn'>
+      </div>
+  </div>
+</div>
+
+
+<!-- Button trigger modal -->
+<button #alertBtn [hidden]="true" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+  <div class="modal-dialog">
+      <div class="modal-content">
+          <div class="modal-header {{this.colorModal}}">
+              <h1 class="modal-title fs-5" id="staticBackdropLabel">{{this.modalHead}}</h1>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="text-center modal-body ">
+              {{this.modalMessage}}
+          </div>
+          <div class="modal-footer">
+              <button type="button" class="btn btn-{{this.colorModal}}"  data-bs-dismiss="modal">Aceptar</button>
+
+          </div>
+      </div>
+  </div>
+</div>

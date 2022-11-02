@@ -1,0 +1,8 @@
+.calculator-grup {
+    display: block;
+    float: left;
+    width: 25%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 1px solid white;
+}

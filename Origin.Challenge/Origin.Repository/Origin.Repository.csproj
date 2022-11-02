@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.Abstractions\Core.Abstractions.csproj" />
+    <ProjectReference Include="..\Core\Core.Framework\Core.Framework.csproj" />
+    <ProjectReference Include="..\Origin.DatabaseContext\Origin.DatabaseContext.csproj" />
+    <ProjectReference Include="..\Origin.Model\Origin.Model.csproj" />
+  </ItemGroup>
+
+</Project>

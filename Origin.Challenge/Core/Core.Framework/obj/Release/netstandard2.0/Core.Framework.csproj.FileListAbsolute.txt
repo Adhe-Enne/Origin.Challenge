@@ -1,0 +1,13 @@
+C:\Workspace\Bizlogit\Core\Core.Framework\bin\Release\netstandard2.0\Core.Framework.deps.json
+C:\Workspace\Bizlogit\Core\Core.Framework\bin\Release\netstandard2.0\Core.Framework.dll
+C:\Workspace\Bizlogit\Core\Core.Framework\bin\Release\netstandard2.0\Core.Framework.pdb
+C:\Workspace\Bizlogit\Core\Core.Framework\bin\Release\netstandard2.0\Core.Abstractions.dll
+C:\Workspace\Bizlogit\Core\Core.Framework\bin\Release\netstandard2.0\Core.Abstractions.pdb
+C:\Workspace\Bizlogit\Core\Core.Framework\obj\Release\netstandard2.0\Core.Framework.csproj.AssemblyReference.cache
+C:\Workspace\Bizlogit\Core\Core.Framework\obj\Release\netstandard2.0\Core.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Bizlogit\Core\Core.Framework\obj\Release\netstandard2.0\Core.Framework.AssemblyInfoInputs.cache
+C:\Workspace\Bizlogit\Core\Core.Framework\obj\Release\netstandard2.0\Core.Framework.AssemblyInfo.cs
+C:\Workspace\Bizlogit\Core\Core.Framework\obj\Release\netstandard2.0\Core.Framework.csproj.CoreCompileInputs.cache
+C:\Workspace\Bizlogit\Core\Core.Framework\obj\Release\netstandard2.0\Core.Framework.csproj.CopyComplete
+C:\Workspace\Bizlogit\Core\Core.Framework\obj\Release\netstandard2.0\Core.Framework.dll
+C:\Workspace\Bizlogit\Core\Core.Framework\obj\Release\netstandard2.0\Core.Framework.pdb

@@ -1,0 +1,10 @@
+C:\Repository\Origin.Challenge\Core\Core.Externals\bin\Debug\netstandard2.0\Core.Externals.deps.json
+C:\Repository\Origin.Challenge\Core\Core.Externals\bin\Debug\netstandard2.0\Core.Externals.dll
+C:\Repository\Origin.Challenge\Core\Core.Externals\bin\Debug\netstandard2.0\Core.Externals.pdb
+C:\Repository\Origin.Challenge\Core\Core.Externals\obj\Debug\netstandard2.0\Core.Externals.csproj.AssemblyReference.cache
+C:\Repository\Origin.Challenge\Core\Core.Externals\obj\Debug\netstandard2.0\Core.Externals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\Origin.Challenge\Core\Core.Externals\obj\Debug\netstandard2.0\Core.Externals.AssemblyInfoInputs.cache
+C:\Repository\Origin.Challenge\Core\Core.Externals\obj\Debug\netstandard2.0\Core.Externals.AssemblyInfo.cs
+C:\Repository\Origin.Challenge\Core\Core.Externals\obj\Debug\netstandard2.0\Core.Externals.csproj.CoreCompileInputs.cache
+C:\Repository\Origin.Challenge\Core\Core.Externals\obj\Debug\netstandard2.0\Core.Externals.dll
+C:\Repository\Origin.Challenge\Core\Core.Externals\obj\Debug\netstandard2.0\Core.Externals.pdb

@@ -1,0 +1,33 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+.calculator-grup {
+    display: block;
+    float: left;
+    width: 33.333%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 2px solid white;
+}
+
+.modal-header.primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #337ab7;
+}
+
+.modal-header.danger {
+    background-color: rgb(226, 0, 0);
+    color: white;
+    border-color: rgb(226, 0, 0);
+}
+
+.modal-header.warning {
+    background-color: rgb(255, 183, 26);
+    color: white;
+    border-color: rgb(255, 183, 26);
+}
+
+body {
+    margin-top: 20px;
+}

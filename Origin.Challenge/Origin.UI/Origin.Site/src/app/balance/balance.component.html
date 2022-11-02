@@ -1,0 +1,37 @@
+
+<div class="container w-50 ">
+    <div class="position-relative list-group">
+        <a class="list-group-item list-group-item-action active" aria-current="true">
+            <div class="d-flex w-100 justify-content-between">
+                <small class="mb-1">Numero de Tarjeta</small>
+                <h4>{{this.entity.description}}</h4>
+            </div>
+            <p class="mb-1">{{this.entity.codeNumber}}</p>
+            <h4>{{this.entity.owner}}</h4>
+        </a>
+        <a  class="list-group-item list-group-item-action">
+            <div class="d-flex w-100 justify-content-between">
+                <h5 class="mb-1">Fecha de Vencimiento</h5>
+                <small class="text-muted">3 days ago</small>
+            </div>
+            <p class="mb-1">{{this.entity.dueDate}}</p>
+        </a>
+        <a class="list-group-item list-group-item-action">
+            <div class="d-flex w-100 justify-content-between">
+                <h5 class="mb-1">Saldo Restante</h5>
+                <h4 class="text-muted">{{this.entity.cardType}}</h4>
+            </div>
+            <p class="mb-1"> ARS$ {{this.entity.balance}}</p>
+            <small class="text-muted">{{this.entity.cardType}}</small>
+        </a>
+    </div>
+    <div class=" mt-5">
+        <div>
+            <input type="button" value="ATRAS" (click)="  ToBack()" class="calculator-grup btn btn-warning">
+        </div>
+        <span class="calculator-grup"></span>
+        <div>
+            <input type="button" value="SALIR" (click)="  ToOut()" class="calculator-grup btn btn-warning">
+        </div>
+    </div>
+</div>

@@ -1,0 +1,12 @@
+C:\Repository\Origin.Challenge\Core\Core.Abstractions\bin\Debug\net6.0\Core.Abstractions.deps.json
+C:\Repository\Origin.Challenge\Core\Core.Abstractions\bin\Debug\net6.0\Core.Abstractions.dll
+C:\Repository\Origin.Challenge\Core\Core.Abstractions\bin\Debug\net6.0\Core.Abstractions.pdb
+C:\Repository\Origin.Challenge\Core\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.csproj.AssemblyReference.cache
+C:\Repository\Origin.Challenge\Core\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\Origin.Challenge\Core\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.AssemblyInfoInputs.cache
+C:\Repository\Origin.Challenge\Core\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.AssemblyInfo.cs
+C:\Repository\Origin.Challenge\Core\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.csproj.CoreCompileInputs.cache
+C:\Repository\Origin.Challenge\Core\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.dll
+C:\Repository\Origin.Challenge\Core\Core.Abstractions\obj\Debug\net6.0\refint\Core.Abstractions.dll
+C:\Repository\Origin.Challenge\Core\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.pdb
+C:\Repository\Origin.Challenge\Core\Core.Abstractions\obj\Debug\net6.0\ref\Core.Abstractions.dll

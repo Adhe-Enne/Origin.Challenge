@@ -1,0 +1,1 @@
+En la carpeta /Origin.Docs se encuentra el DER y el script "Create & Populate.sql" listo para ejecutarse y probar la funcionalidad de la aplicacion.

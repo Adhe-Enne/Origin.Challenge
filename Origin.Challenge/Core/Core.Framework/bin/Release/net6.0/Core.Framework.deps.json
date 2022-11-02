@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Core.Framework/1.0.0": {
+        "dependencies": {
+          "Core.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "Core.Framework.dll": {}
+        }
+      },
+      "Core.Abstractions/1.0.0": {
+        "runtime": {
+          "Core.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Core.Framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Core.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

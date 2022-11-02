@@ -1,0 +1,15 @@
+<div class="container">
+    <h1>Operaciones</h1>
+    <br>
+<div class="display-5 text-center">
+    Bienvenido Sr@ {{ownerName}}
+</div> <br>
+<br>
+    <div class=" d-grid gap-2">
+        <div>
+            <input type="button" (click)="this.toBalance()" value="BALANCE" class="calculator-grup btn btn-warning">
+            <input type="button" (click)="this.toExtract()" value="RETIRO" class=" calculator-grup btn btn-success" id='acceptBtn'>
+            <input type="button" (click)="this.movements()" value="REPORTES" class=" calculator-grup btn btn-danger " id='acceptBtn'>
+        </div>
+    </div>
+</div>

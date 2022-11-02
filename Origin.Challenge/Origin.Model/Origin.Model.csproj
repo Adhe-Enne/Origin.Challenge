@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.Abstractions\Core.Abstractions.csproj" />
+    <ProjectReference Include="..\Core\Core.Externals\Core.Externals.csproj" />
+    <ProjectReference Include="..\Core\Core.Framework\Core.Framework.csproj" />
+  </ItemGroup>
+
+</Project>
